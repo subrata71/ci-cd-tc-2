@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "676bde41c5b9d13131a1178e_fcb1a542-3435-477c-b1e7-6975c6e5eff8",
+  "id": "Page1_AppsmithMockUsers1",
+  "moduleUUID": "7b80c67d-21b4-46b1-89a3-320ecebcc972",
+  "packageUUID": "bc9e5870-ea13-4eca-9bfc-0d403598ad6f",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "moduleInputs": {},
+    "name": "AppsmithMockUsers1",
+    "pageId": "Page1"
+  }
+}
