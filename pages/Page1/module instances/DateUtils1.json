@@ -1,0 +1,96 @@
+{
+  "gitSyncId": "676bd990c5b9d13131a1170f_12be2035-2876-45a2-bc41-5ee5abe250d5",
+  "id": "Page1_DateUtils1",
+  "moduleUUID": "fcbc4c31-549c-41a2-92f2-70fae2b1a825",
+  "packageUUID": "bc9e5870-ea13-4eca-9bfc-0d403598ad6f",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addDaysToDate": "[\"\",\"\"]",
+      "formatDateToDDMMYYYY": "[\"\"]",
+      "getCurrentDate": "[]",
+      "getDayOfWeek": "[\"\"]",
+      "getDaysDifference": "[\"\",\"\"]",
+      "getFirstDayOfMonth": "[]",
+      "getLastDayOfMonth": "[]",
+      "isDateInFuture": "[\"\"]",
+      "isLeapYear": "[\"2024\"]",
+      "parseDateString": "[\"\"]"
+    },
+    "moduleInputs": {
+      "ffsqcrkiig": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ffsqcrkiig",
+        "label": "isDateInFuture",
+        "propertyName": "inputs.isDateInFuture"
+      },
+      "fhbgpvlsjn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "fhbgpvlsjn",
+        "label": "getCurrentDate",
+        "propertyName": "inputs.getCurrentDate"
+      },
+      "jakabnzxyw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jakabnzxyw",
+        "label": "getLastDayOfMonth",
+        "propertyName": "inputs.getLastDayOfMonth"
+      },
+      "jnvoguzgdq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jnvoguzgdq",
+        "label": "getFirstDayOfMonth",
+        "propertyName": "inputs.getFirstDayOfMonth"
+      },
+      "kjrjsyhevg": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "kjrjsyhevg",
+        "label": "getDayOfWeek",
+        "propertyName": "inputs.getDayOfWeek"
+      },
+      "kmmmwhfdxa": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "kmmmwhfdxa",
+        "label": "getDaysDifference",
+        "propertyName": "inputs.getDaysDifference"
+      },
+      "rnertwwhak": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "rnertwwhak",
+        "label": "isLeapYear",
+        "propertyName": "inputs.isLeapYear"
+      },
+      "tzvymswmkg": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "tzvymswmkg",
+        "label": "addDaysToDate",
+        "propertyName": "inputs.addDaysToDate"
+      },
+      "zffjpbnkne": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "zffjpbnkne",
+        "label": "formatDateToDDMMYYYY",
+        "propertyName": "inputs.formatDateToDDMMYYYY"
+      },
+      "zzvkmknwep": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "zzvkmknwep",
+        "label": "parseDateString",
+        "propertyName": "inputs.parseDateString"
+      }
+    },
+    "name": "DateUtils1",
+    "pageId": "Page1"
+  }
+}
